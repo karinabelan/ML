@@ -34,4 +34,4 @@ timeNumPy=time.time() - startTimeNumPy
 print("NumPyMulM: {:.7f}s" .format(timeNumPy))
 
 
-################## if rows=200 and columns=200, result is MulMatrix: 11.3646371s and NumPyMulM: 0.0050006s
+################# if rows=200 and columns=200, result is MulMatrix: 11.3646371s and NumPyMulM: 0.0050006s
